@@ -1,4 +1,4 @@
-<rss  version="2.0"  encoding="UTF-8">  <channel> <title>HITCON ZeroDay - 公開漏洞</title> <link>https://zeroday.hitcon.org/vulnerability/disclosed</link> <description>ZeroDay 是一個銜接資安專家與組織間的良性溝通橋樑的漏洞提報平台，專門協助接獲漏洞通報並提報予組織和修正漏洞等服務。</description> <author>HITCON ZeroDay</author> <image>  <url>https://zeroday.hitcon.org/images/favicon/favicon.png</url> </image> <language>zh_TW</language> <copyright>HITCON ZeroDay</copyright> <item>  <title>奕智鏈結科技股份有限公司 系統存取控制缺陷</title>  <link><div class="container">
+<rss  version="2.0"  encoding="UTF-8">  <channel> <title>HITCON ZeroDay - 公開漏洞</title> <link>https://zeroday.hitcon.org/vulnerability/disclosed</link> <description>ZeroDay 是一個銜接資安專家與組織間的良性溝通橋樑的漏洞提報平台，專門協助接獲漏洞通報並提報予組織和修正漏洞等服務。</description> <author>HITCON ZeroDay</author> <image>  <url>https://zeroday.hitcon.org/images/favicon/favicon.png</url> </image> <language>zh_TW</language> <copyright>HITCON ZeroDay</copyright> <item>  <title>奕智鏈結科技股份有限公司 系統存取控制缺陷</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00422</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -214,7 +214,7 @@ https://cwe.mitre.org/data/definitions/284.html</div>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/07/20</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00422</pubDate> </item> <item>  <title>台灣醫療暨生技器材工業同業公會 網站存在 SQL injection</title>  <link><div class="container">
+</div></description>  <pubDate>2021/07/20</pubDate> </item> <item>  <title>台灣醫療暨生技器材工業同業公會 網站存在 SQL injection</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00394</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -444,7 +444,7 @@ https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet</br></br></
 </div>
 </div>
 </section>
-</div></link>  <description>2021/07/15</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00394</pubDate> </item> <item>  <title>中央大學eeclass系統Broken Access Control</title>  <link><div class="container">
+</div></description>  <pubDate>2021/07/15</pubDate> </item> <item>  <title>中央大學eeclass系統Broken Access Control</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00345</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -683,7 +683,7 @@ Content-Type: application/json; charset=utf-8
 </div>
 </div>
 </section>
-</div></link>  <description>2021/06/25</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00345</pubDate> </item> <item>  <title>台灣理研計器股份有限公司 公司 任意文件下载漏洞</title>  <link><div class="container">
+</div></description>  <pubDate>2021/06/25</pubDate> </item> <item>  <title>台灣理研計器股份有限公司 公司 任意文件下载漏洞</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00275</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -878,7 +878,7 @@ https://cwe.mitre.org/data/definitions/22.html</div>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/05/25</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00275</pubDate> </item> <item>  <title>捷安特股份有限公司 網站存在 Reflected XSS</title>  <link><div class="container">
+</div></description>  <pubDate>2021/05/25</pubDate> </item> <item>  <title>捷安特股份有限公司 網站存在 Reflected XSS</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00396</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -1092,7 +1092,7 @@ https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet</br></p>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/07/15</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00396</pubDate> </item> <item>  <title>新北高工系統提權漏洞(最高權限管理員)</title>  <link><div class="container">
+</div></description>  <pubDate>2021/07/15</pubDate> </item> <item>  <title>新北高工系統提權漏洞(最高權限管理員)</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00273</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -1288,7 +1288,7 @@ https://cwe.mitre.org/data/definitions/901.html</div>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/05/23</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00273</pubDate> </item> <item>  <title>電機與電子群科中心學校專題報名網站 可隨意存取他組專題資料</title>  <link><div class="container">
+</div></description>  <pubDate>2021/05/23</pubDate> </item> <item>  <title>電機與電子群科中心學校專題報名網站 可隨意存取他組專題資料</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00272</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -1470,7 +1470,7 @@ http://210.70.74.1/topic/UpLoadFiles/1_PT98478_110008_%e9%9b%bb%e6%a9%9f%e8%88%8
 </div>
 </div>
 </section>
-</div></link>  <description>2021/05/23</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00272</pubDate> </item> <item>  <title>臺中醫院掛號系統</title>  <link><div class="container">
+</div></description>  <pubDate>2021/05/23</pubDate> </item> <item>  <title>臺中醫院掛號系統</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00271</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -1682,7 +1682,7 @@ www03.taic.mohw.gov.tw/OINetReg/OINetReg.Reg/Reg_NetReg.aspx</div>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/05/23</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00271</pubDate> </item> <item>  <title>ntvs新北高工系統權限缺失</title>  <link><div class="container">
+</div></description>  <pubDate>2021/05/23</pubDate> </item> <item>  <title>ntvs新北高工系統權限缺失</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00270</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -1860,7 +1860,7 @@ https://cwe.mitre.org/data/definitions/840.html</div>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/05/23</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00270</pubDate> </item> <item>  <title>綠藤生機</title>  <link><div class="container">
+</div></description>  <pubDate>2021/05/23</pubDate> </item> <item>  <title>綠藤生機</title>  <link>https://zeroday.hitcon.org/vulnerability/ZD-2021-00269</link>  <description><div class="container">
 <h2 class="always-not-there">Vulnerability Detail Report</h2>
 <section class="vul-detail-section overview">
 <h3 class="always-not-there">Vulnerability Overview</h3>
@@ -2066,4 +2066,4 @@ www.greenvines.com.tw</p>
 </div>
 </div>
 </section>
-</div></link>  <description>2021/05/23</description>  <pubDate>https://zeroday.hitcon.org/vulnerability/ZD-2021-00269</pubDate> </item> </channel></rss>
+</div></description>  <pubDate>2021/05/23</pubDate> </item> </channel></rss>
